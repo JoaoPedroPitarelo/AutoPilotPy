@@ -10,8 +10,6 @@ __pycache__/
 # C extensions
 *.so
 
-# WebDrivers
-web_drivers/msedgedriver.exe
 
 # Distribution / packaging
 .Python
